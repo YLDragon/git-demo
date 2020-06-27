@@ -8,4 +8,7 @@ public class GitMain {
     private  void  test(){
 
     }
+    private  void  test(){
+
+    }
 }
